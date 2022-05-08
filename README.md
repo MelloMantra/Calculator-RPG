@@ -7,7 +7,7 @@ A text-based RPG game written in TI-BASIC for TI-84 graphing calculators.
 To play this game on YOUR calculator:
 
 1. Verify that your calculator model is listed at the bottom of this README.md.
-2. Install the TI-Connect CE [here](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware)(or the TI-Connect software [here](https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware)).
+2. Install the TI-Connect CE [here](https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware) (or the TI-Connect software [here](https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware)).
 3. Connect your calculator to your computer via a mini-USB cable (it should have come with the calculator).
 4. Select your calculator in the TI-Connect software.
 5. Select the **Files** tab on the left.
