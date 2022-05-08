@@ -11,7 +11,7 @@ To play this game on YOUR calculator:
 3. Connect your calculator to your computer via a mini-USB cable (it should have come with the calculator).
 4. Select your calculator in the TI-Connect software.
 5. Select the **Files** tab on the left.
-6. Click the icon showing an arrow pointing to a calculator in the row of buttons towards the top of the window.
+6. Click the icon showing an arrow pointing away from a computer in the row of buttons towards the top of the window.
 7. Drag and drop or select the game file when prompted.
 8. Select **Transfer** and wait for the file to finish transferring.
 9. You may now disconnect the calculator, press the `PRGM` button, and select the game (which should be titled `GAMELOL`).
