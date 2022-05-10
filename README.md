@@ -26,7 +26,6 @@ The following calculator models can run this game:
 - TI-84+
 - TI-84+ CE
 - TI-84+ CE Python
-- TI-84
 - TI nSpire
 - TI nSpire 2
 
