@@ -112,6 +112,19 @@
 "GAME START {"
 
     Lbl ST
+    
+    "Intro animation"
+    clrHome
+    Output(4,8,".")
+    rand(5)
+    Output(4,8,"o")
+    rand(5)
+    Ouput(4,8,"O")
+    rand(5)
+    Output(2,7,"_")
+    Output(3,6,"/ \")
+    Output(4,6,"\_/")
+    
 "}"
 
 "EOF {"
